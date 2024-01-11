@@ -25,8 +25,8 @@ System.out.println("Enter 1st number");
 int n1=s.nextInt();
 System.out.println("Enter 2st number");
 int n2=s.nextInt();
-System.out.println(n1+"+"+n2+c.getSum(n1,n2);
-System.out.println(n1+"-"+n2+c.getProduct(n1,n2);
+System.out.println(n1+"+"+n2+c.getSum(n1,n2));
+System.out.println(n1+"-"+n2+c.getProduct(n1,n2));
 }
 }
 
